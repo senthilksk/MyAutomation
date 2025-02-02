@@ -1,0 +1,14 @@
+[INFO ] 2025-01-29 06:51:59.268 [main] LogDemo - Info message
+[FATAL] 2025-01-29 06:51:59.271 [main] LogDemo - fatal message
+[ERROR] 2025-01-29 06:51:59.271 [main] LogDemo - error message
+[DEBUG] 2025-01-29 06:51:59.271 [main] LogDemo - debug message
+[WARN ] 2025-01-29 06:51:59.272 [main] LogDemo - warn message
+[DEBUG] 2025-01-29 09:30:54.982 [main] ZipPackage - Save core properties part
+[DEBUG] 2025-01-29 09:30:54.986 [main] ZipPackage - Save content types part
+[DEBUG] 2025-01-29 09:30:55.129 [main] ZipPackage - Save package relationships
+[DEBUG] 2025-01-29 09:30:55.133 [main] ZipPackage - Save part 'docProps/app.xml'
+[DEBUG] 2025-01-29 09:30:55.140 [main] ZipPackage - Save part 'docProps/core.xml'
+[DEBUG] 2025-01-29 09:30:55.152 [main] ZipPackage - Save part 'xl/sharedStrings.xml'
+[DEBUG] 2025-01-29 09:30:55.153 [main] ZipPackage - Save part 'xl/styles.xml'
+[DEBUG] 2025-01-29 09:30:55.153 [main] ZipPackage - Save part 'xl/workbook.xml'
+[DEBUG] 2025-01-29 09:30:55.156 [main] ZipPackage - Save part 'xl/worksheets/sheet1.xml'
